@@ -16,7 +16,7 @@ h1 {
 
 p {
     color: orchid;
-    font-size: 36pt;
+    font-size: 24pt;
     background-color: burlywood1
 }
 
@@ -26,4 +26,13 @@ a {
 h2 {
     font-family: sans-serif;
     font-weight: 600    
+}
+#special-paragraph {
+    font-family: cursive;
+}
+.cis-260{
+    font-family: cursive
+}
+body p a {
+    font-family: cursive
 }
